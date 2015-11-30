@@ -656,3 +656,5 @@ public extension qos_class_t {
         }
     }
 }
+
+extension qos_class_t: Equatable {}
