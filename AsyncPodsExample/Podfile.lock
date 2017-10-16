@@ -1,14 +1,16 @@
 PODS:
-  - AsyncSwift (1.6.4)
+  - AsyncSwift (2.0.2)
 
 DEPENDENCIES:
   - AsyncSwift (from `../`)
 
 EXTERNAL SOURCES:
   AsyncSwift:
-    :path: ../
+    :path: "../"
 
 SPEC CHECKSUMS:
-  AsyncSwift: 3c90beed237324f1b57e1f1c414dc5501985d208
+  AsyncSwift: 8d95107589e4c2a9dadadaeb8e5f48662eccca3b
 
-COCOAPODS: 0.39.0
+PODFILE CHECKSUM: c3ad687081866de096cfcd637a5439ffa36aff6f
+
+COCOAPODS: 1.2.0
