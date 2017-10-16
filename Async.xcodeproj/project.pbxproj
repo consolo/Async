@@ -174,14 +174,6 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 9999;
-				TargetAttributes = {
-					OBJ_19 = {
-						LastSwiftMigration = 0900;
-					};
-					OBJ_26 = {
-						LastSwiftMigration = 0900;
-					};
-				};
 			};
 			buildConfigurationList = OBJ_2 /* Build configuration list for PBXProject "Async" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -236,8 +228,6 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -247,8 +237,6 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
@@ -256,8 +244,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 1F99522A1EA0FF2F0095B0F1 /* AsyncTests-Debug.xcconfig */;
 			buildSettings = {
-				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
 			};
 			name = Debug;
 		};
@@ -265,8 +251,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 1F99522B1EA0FF2F0095B0F1 /* AsyncTests-Release.xcconfig */;
 			buildSettings = {
-				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
 			};
 			name = Release;
 		};
